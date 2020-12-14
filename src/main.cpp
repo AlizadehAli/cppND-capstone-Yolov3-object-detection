@@ -1,3 +1,5 @@
+// help is taken from:
+// https://github.com/opencv/opencv/blob/master/samples/dnn/object_detection.cpp
 #include <fstream>
 #include <sstream>
 #include <iostream>
