@@ -2,9 +2,9 @@
 
 <img src="det_output/out.jpg"/>
 
-This repository contains an implementation of the project in [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
+This repository contains an implementation of the project in [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
 
-I use OpenCV and Yolov3 to implement a highly capable object detection model. It takes in single image and outputs the annotated image based on the object detector's predictions. 
+Choosing the Capstone Option 1 (Neural Network Deployment), I use OpenCV and Yolov3 to implement a highly capable object detection model. It takes in single image and outputs the annotated image based on the object detector's predictions. 
 
 The fulfilled rubic points are as follows:
 
